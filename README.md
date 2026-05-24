@@ -407,14 +407,7 @@ If a caller pauses mid-number, the AI says: *"I got 9820. Please tell me the rem
 
 ---
 
-## 🗺️ Roadmap — What to Add Next
 
-- [ ] Replace hardcoded `PROPERTY_DB` with a real database (PostgreSQL / MongoDB)
-- [ ] Add Vector RAG (Pinecone / FAISS) when property listings exceed 200+
-- [ ] WebSocket support for real-time profile updates instead of polling
-- [ ] WhatsApp integration via Twilio WhatsApp API
-- [ ] Admin dashboard with charts — lead trends, conversion rates
-- [ ] Multi-agent support for different cities / property types
 
 ---
 

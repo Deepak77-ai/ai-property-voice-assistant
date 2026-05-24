@@ -1,0 +1,31 @@
+# FastAPI server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# OpenAI-compatible client (used for Groq)
+openai>=1.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Twilio (voice calls)
+twilio>=8.10.0
+
+# Speech Recognition (Google STT)
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+
+# Audio handling
+pyaudio>=0.2.11
+
+# File uploads (FastAPI forms)
+python-multipart>=0.0.6
+
+langdetect>=1.0.9
+openai>=1.3.0
+python-multipart>=0.0.6
+
+slowapi==0.1.9

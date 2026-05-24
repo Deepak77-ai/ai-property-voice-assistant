@@ -1,0 +1,1613 @@
+{
+  "web-user": [
+    {
+      "time": "2026-05-14T17:27:22",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-14T17:27:22",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-14T18:57:47",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-14T18:57:47",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-14T18:58:00",
+      "role": "user",
+      "message": "I want to buy a property.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-14T18:58:00",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-15T14:40:12",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T14:40:12",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:24",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:24",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:36",
+      "role": "user",
+      "message": "property",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:36",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:49",
+      "role": "user",
+      "message": "30.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "budget": "30 lakh"
+      }
+    },
+    {
+      "time": "2026-05-15T16:19:49",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "budget": "30 lakh"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:01",
+      "role": "user",
+      "message": "Bye.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "budget": "30 lakh"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:01",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget 30 lakh, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "budget": "30 lakh"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:40",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:40",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:52",
+      "role": "user",
+      "message": "Bye.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:20:52",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:27",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:27",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:40",
+      "role": "user",
+      "message": "E-mail address is given in the description.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:40",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:53",
+      "role": "user",
+      "message": "The property.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:21:53",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:22:05",
+      "role": "user",
+      "message": "property",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:22:05",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:22:18",
+      "role": "user",
+      "message": "Thank you.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:22:18",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:00",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:00",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:13",
+      "role": "user",
+      "message": "Thank you for watching.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:13",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:33",
+      "role": "user",
+      "message": "I want to",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:33",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:45",
+      "role": "user",
+      "message": "I want to buy a property.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:45",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:56",
+      "role": "user",
+      "message": "Bye.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-15T16:23:56",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: buy property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    }
+  ],
+  "b7ea9220-1cce-4479-b621-0bc3b01f205a": [
+    {
+      "time": "2026-05-16T12:57:30",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T12:57:30",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "947c3f82-62e5-47dc-9904-944a370bc0ed": [
+    {
+      "time": "2026-05-16T13:07:04",
+      "role": "user",
+      "message": "hii",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:04",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:20",
+      "role": "user",
+      "message": "i wnat to by a property",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:20",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:43",
+      "role": "user",
+      "message": "buy",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:43",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:51",
+      "role": "user",
+      "message": "mumbai",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-16T13:07:51",
+      "role": "assistant",
+      "message": "What is your budget? For example, fifty lakh or sixty lakh.",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:04",
+      "role": "user",
+      "message": "50 lacs",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lac"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:04",
+      "role": "assistant",
+      "message": "What type of property do you want? For example, 1BHK, 2BHK, villa, or plot.",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lac"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:12",
+      "role": "user",
+      "message": "2BHK",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:12",
+      "role": "assistant",
+      "message": "Is this for self-use or investment?",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:22",
+      "role": "user",
+      "message": "invesment",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:22",
+      "role": "assistant",
+      "message": "Is this for self-use or investment?",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:34",
+      "role": "user",
+      "message": "self-use",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK",
+        "purpose": "self-use"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:34",
+      "role": "assistant",
+      "message": "Please share your 10 digit phone number slowly, digit by digit.",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "2 lakh",
+        "type": "2BHK",
+        "purpose": "self-use"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:42",
+      "role": "user",
+      "message": "7410776326",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "7410776326 lakh",
+        "type": "2BHK",
+        "purpose": "self-use",
+        "phone": "7410776326"
+      }
+    },
+    {
+      "time": "2026-05-16T13:08:42",
+      "role": "assistant",
+      "message": "Thank you. I have saved your requirement. You are looking to buy a 2BHK in Mumbai with budget 7410776326 lakh. Lead quality is Hot with score 95. Based on your requirement, I found these options: 2BHK in Thane around 60 lakh. Highlights: near metro, family area. 1BHK in Navi Mumbai around 50 lakh. Highlights: future growth, near station. 2BHK in Wakad around 65 lakh. Highlights: schools nearby, premium area. A property expert can contact you soon.",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "7410776326 lakh",
+        "type": "2BHK",
+        "purpose": "self-use",
+        "phone": "7410776326",
+        "summary": "buy 2BHK in Mumbai with budget 7410776326 lakh."
+      }
+    }
+  ],
+  "3efc930a-43cb-421e-bd4f-fa7bef83be0f": [
+    {
+      "time": "2026-05-16T22:37:08",
+      "role": "user",
+      "message": "hii",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:08",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:22",
+      "role": "user",
+      "message": "i want to by a property",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:22",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:32",
+      "role": "user",
+      "message": "buy",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:32",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:38",
+      "role": "user",
+      "message": "mumbai",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:38",
+      "role": "assistant",
+      "message": "What is your budget? For example, fifty lakh or sixty lakh.",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:56",
+      "role": "user",
+      "message": "20lach",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "20 lac"
+      }
+    },
+    {
+      "time": "2026-05-16T22:37:56",
+      "role": "assistant",
+      "message": "What type of property do you want? For example, 1BHK, 2BHK, villa, or plot.",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "20 lac"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:03",
+      "role": "user",
+      "message": "1BHK",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "1 lakh",
+        "type": "1BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:03",
+      "role": "assistant",
+      "message": "Is this for self-use or investment?",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "1 lakh",
+        "type": "1BHK"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:09",
+      "role": "user",
+      "message": "investment",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "1 lakh",
+        "type": "1BHK",
+        "purpose": "investment"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:10",
+      "role": "assistant",
+      "message": "Please share your 10 digit phone number slowly, digit by digit.",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "1 lakh",
+        "type": "1BHK",
+        "purpose": "investment"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:23",
+      "role": "user",
+      "message": "7410776326",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "7410776326 lakh",
+        "type": "1BHK",
+        "purpose": "investment",
+        "phone": "7410776326"
+      }
+    },
+    {
+      "time": "2026-05-16T22:38:23",
+      "role": "assistant",
+      "message": "Thank you. I have saved your requirement. You are looking to buy a 1BHK in Mumbai with budget 7410776326 lakh. Lead quality is Hot with score 95. Based on your requirement, I found these options: 1BHK in Navi Mumbai around 50 lakh. Highlights: future growth, near station. 2BHK in Thane around 60 lakh. Highlights: near metro, family area. 2BHK in Hinjewadi around 55 lakh. Highlights: IT hub, good rent. A property expert can contact you soon.",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "7410776326 lakh",
+        "type": "1BHK",
+        "purpose": "investment",
+        "phone": "7410776326",
+        "summary": "buy 1BHK in Mumbai with budget 7410776326 lakh."
+      }
+    }
+  ],
+  "3a1271f1-5e1f-4bed-b884-67597be8a7ac": [
+    {
+      "time": "2026-05-17T13:18:05",
+      "role": "user",
+      "message": "Thank you.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:18:05",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:18:27",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:18:27",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:30",
+      "role": "user",
+      "message": "hii",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:30",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:42",
+      "role": "user",
+      "message": "i want to buy",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:42",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:47",
+      "role": "user",
+      "message": "mumbai",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-17T13:19:47",
+      "role": "assistant",
+      "message": "What is your budget? For example, fifty lakh or sixty lakh.",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "buy",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:00",
+      "role": "user",
+      "message": "50 lakh",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:00",
+      "role": "assistant",
+      "message": "What type of property do you want? For example, 1BHK, 2BHK, villa, or plot.",
+      "profile": {
+        "language": "English",
+        "lead_score": 45,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:05",
+      "role": "user",
+      "message": "plot",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:05",
+      "role": "assistant",
+      "message": "Is this for self-use or investment?",
+      "profile": {
+        "language": "English",
+        "lead_score": 55,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:14",
+      "role": "user",
+      "message": "investment",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot",
+        "purpose": "investment"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:14",
+      "role": "assistant",
+      "message": "Please share your 10 digit phone number slowly, digit by digit.",
+      "profile": {
+        "language": "English",
+        "lead_score": 65,
+        "lead_quality": "Warm",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot",
+        "purpose": "investment"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:21",
+      "role": "user",
+      "message": "7410776326",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot",
+        "purpose": "investment",
+        "phone": "7410776326"
+      }
+    },
+    {
+      "time": "2026-05-17T13:20:21",
+      "role": "assistant",
+      "message": "Thank you. I have saved your requirement. You are looking to buy a plot in Mumbai with budget 50 lakh. Lead quality is Hot with score 95. Based on your requirement, I found these options: 1BHK in Navi Mumbai around 50 lakh. Highlights: future growth, near station. 2BHK in Thane around 60 lakh. Highlights: near metro, family area. 2BHK in Hinjewadi around 55 lakh. Highlights: IT hub, good rent. A property expert can contact you soon.",
+      "profile": {
+        "language": "English",
+        "lead_score": 95,
+        "lead_quality": "Hot",
+        "intent": "buy",
+        "city": "Mumbai",
+        "budget": "50 lakh",
+        "type": "plot",
+        "purpose": "investment",
+        "phone": "7410776326",
+        "summary": "buy plot in Mumbai with budget 50 lakh."
+      }
+    }
+  ],
+  "ea515b4f-05d4-45e7-b6ac-cf3e8daf286c": [
+    {
+      "time": "2026-05-17T13:26:38",
+      "role": "user",
+      "message": "Thank you.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-17T13:26:38",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "9f692139-e895-46b3-9a6f-99720005035f": [
+    {
+      "time": "2026-05-24T19:59:05",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T19:59:05",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "f37bc940-cc7c-43db-b339-55a7fa4f9b7b": [
+    {
+      "time": "2026-05-24T20:12:40",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:12:40",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "7312d632-6ce6-43bb-8c1b-175f8d6ce3ab": [
+    {
+      "time": "2026-05-24T20:17:59",
+      "role": "user",
+      "message": "hii",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:18:00",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:18:04",
+      "role": "user",
+      "message": "rent",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "rent"
+      }
+    },
+    {
+      "time": "2026-05-24T20:18:04",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "rent"
+      }
+    },
+    {
+      "time": "2026-05-24T20:18:10",
+      "role": "user",
+      "message": "mumbai",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "rent",
+        "city": "Mumbai"
+      }
+    },
+    {
+      "time": "2026-05-24T20:18:10",
+      "role": "assistant",
+      "message": "What is your budget? For example, fifty lakh or sixty lakh.",
+      "profile": {
+        "language": "English",
+        "lead_score": 30,
+        "lead_quality": "Cold",
+        "intent": "rent",
+        "city": "Mumbai"
+      }
+    }
+  ],
+  "2921a06f-3413-4350-80a8-b30d5aac28b2": [
+    {
+      "time": "2026-05-24T20:20:28",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:20:28",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "92284c76-246f-43cc-ac6c-54df10fa2c2b": [
+    {
+      "time": "2026-05-24T20:25:52",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:25:52",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:08",
+      "role": "user",
+      "message": "Thank you for watching.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:08",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:32",
+      "role": "user",
+      "message": "I want to buy a property.",
+      "profile": {
+        "language": "English",
+        "intent": "buy",
+        "lead_score": 15,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:32",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "intent": "buy",
+        "lead_score": 15,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:47",
+      "role": "user",
+      "message": "Bye.",
+      "profile": {
+        "language": "English",
+        "intent": "buy",
+        "lead_score": 15,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:26:47",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: buy property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "intent": "buy",
+        "lead_score": 15,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:34:33",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:34:33",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "caa6ec44-2186-4042-a45f-7bc39ea147c4": [
+    {
+      "time": "2026-05-24T20:35:33",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:35:34",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "852d266e-0204-401c-9405-20ee626f58ce": [
+    {
+      "time": "2026-05-24T20:38:52",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:38:52",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    }
+  ],
+  "e4f7a015-ca0d-4962-9d2c-1c091267ef65": [
+    {
+      "time": "2026-05-24T20:39:54",
+      "role": "user",
+      "message": "Hello.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:39:54",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:40:28",
+      "role": "user",
+      "message": "Can you speak English?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:40:28",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:40:48",
+      "role": "user",
+      "message": "ایسی طرح بھی ایسی طرح بھی بات کر سکتے ہیں",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:40:48",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:04",
+      "role": "user",
+      "message": "वाइट कर सकते हैं।",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:04",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:21",
+      "role": "user",
+      "message": "Can you speak Hindi?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:21",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:37",
+      "role": "user",
+      "message": "Thank you.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:41:37",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: not provided property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:28",
+      "role": "user",
+      "message": "hii",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:28",
+      "role": "assistant",
+      "message": "Are you looking to buy, rent, or sell a property?",
+      "profile": {
+        "language": "English",
+        "lead_score": 0,
+        "lead_quality": "Cold"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:32",
+      "role": "user",
+      "message": "rent",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "rent"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:32",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "rent"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:35",
+      "role": "user",
+      "message": "buy",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:35",
+      "role": "assistant",
+      "message": "Which city are you looking in?",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:47",
+      "role": "user",
+      "message": "bye",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    },
+    {
+      "time": "2026-05-24T20:42:47",
+      "role": "assistant",
+      "message": "Thanks. Your requirement is: buy property, city not provided, budget not provided, type not provided, phone not provided.",
+      "profile": {
+        "language": "English",
+        "lead_score": 15,
+        "lead_quality": "Cold",
+        "intent": "buy"
+      }
+    }
+  ]
+}

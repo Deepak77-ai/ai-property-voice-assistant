@@ -1,0 +1,47 @@
+[
+  {
+    "created_at": "2026-05-16T13:08:42",
+    "name": "",
+    "phone": "7410776326",
+    "city": "Mumbai",
+    "intent": "buy",
+    "property_type": "2BHK",
+    "budget": "7410776326 lakh",
+    "purpose": "self-use",
+    "urgency": "",
+    "lead_score": 95,
+    "lead_quality": "Hot",
+    "summary": "buy 2BHK in Mumbai with budget 7410776326 lakh.",
+    "handoff_required": false
+  },
+  {
+    "created_at": "2026-05-16T22:38:23",
+    "name": "",
+    "phone": "7410776326",
+    "city": "Mumbai",
+    "intent": "buy",
+    "property_type": "1BHK",
+    "budget": "7410776326 lakh",
+    "purpose": "investment",
+    "urgency": "",
+    "lead_score": 95,
+    "lead_quality": "Hot",
+    "summary": "buy 1BHK in Mumbai with budget 7410776326 lakh.",
+    "handoff_required": false
+  },
+  {
+    "created_at": "2026-05-17T13:20:21",
+    "name": "",
+    "phone": "7410776326",
+    "city": "Mumbai",
+    "intent": "buy",
+    "property_type": "plot",
+    "budget": "50 lakh",
+    "purpose": "investment",
+    "urgency": "",
+    "lead_score": 95,
+    "lead_quality": "Hot",
+    "summary": "buy plot in Mumbai with budget 50 lakh.",
+    "handoff_required": false
+  }
+]

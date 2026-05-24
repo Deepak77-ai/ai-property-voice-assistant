@@ -1,0 +1,4 @@
+created_at,name,phone,city,intent,property_type,budget,purpose,urgency,lead_score,lead_quality,summary,handoff_required
+2026-05-16T13:08:42,,7410776326,Mumbai,buy,2BHK,7410776326 lakh,self-use,,95,Hot,buy 2BHK in Mumbai with budget 7410776326 lakh.,False
+2026-05-16T22:38:23,,7410776326,Mumbai,buy,1BHK,7410776326 lakh,investment,,95,Hot,buy 1BHK in Mumbai with budget 7410776326 lakh.,False
+2026-05-17T13:20:21,,7410776326,Mumbai,buy,plot,50 lakh,investment,,95,Hot,buy plot in Mumbai with budget 50 lakh.,False

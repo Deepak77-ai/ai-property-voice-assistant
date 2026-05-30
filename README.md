@@ -1,7 +1,17 @@
 # 🏛️ AI Property Sales Assistant
 
 > An AI-powered real estate voice assistant that handles phone calls and browser conversations automatically — collecting lead information, scoring leads, and recommending properties in English, Hindi, and Marathi.
+## 📸 Screenshots
 
+### Lead Collection in Progress
+<img width="1901" height="961" alt="Screenshot 2026-05-30 153308" src="https://github.com/user-attachments/assets/eb72771d-86d4-4572-b808-94429637a649" />
+
+*AI asking structured questions — city, budget, property type. Live profile panel updates in real time as data is extracted. Lead score: 55 (Warm 🌡️)*
+
+### Completed Lead with Property Recommendations
+<img width="1907" height="981" alt="Screenshot 2026-05-30 153431" src="https://github.com/user-attachments/assets/d5c466c9-d3b6-42aa-9d71-75a32a54dc9c" />
+
+*All 5 fields collected — intent, city, budget, type, phone. Lead score jumps to 95 (Hot 🔥). AI surfaces matching properties automatically.*
 ---
 
 ## 📌 What This Project Does
